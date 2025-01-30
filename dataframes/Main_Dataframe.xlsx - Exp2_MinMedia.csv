@@ -1,0 +1,947 @@
+REPLICATE,MEDIUM,CONC,DAY,DATE,"DIAMETER (mm), RED","DIAMETER (mm), GREEN",AVERAGE,GROWTH_SCORE,TRIAL,NOTES
+1,Control - Plate,Control,3,3/16/2024,9.5,9.5,9.5,,1,Agar plug is 7 mm when measuring by hand
+2,Control - Plate,Control,3,3/16/2024,8.5,8.5,8.5,,1,
+3,Control - Plate,Control,3,3/16/2024,11,10.5,10.75,,1,
+4,Control - Plate,Control,3,3/16/2024,9.5,10.5,10,,1,Picture
+5,Control - Plate,Control,3,3/16/2024,11,9.5,10.25,,1,Picture
+1,Control - Glass,Control,3,3/16/2024,10,9.5,9.75,,1,
+2,Control - Glass,Control,3,3/16/2024,10.5,10,10.25,,1,
+3,Control - Glass,Control,3,3/16/2024,10,9.5,9.75,,1,
+4,Control - Glass,Control,3,3/16/2024,10.5,10,10.25,,1,
+5,Control - Glass,Control,3,3/16/2024,10,9.5,9.75,,1,
+1,Squalene,1000,3,3/16/2024,7,7,7,,1,
+2,Squalene,1000,3,3/16/2024,7,7,7,,1,
+3,Squalene,1000,3,3/16/2024,7,7,7,,1,
+4,Squalene,1000,3,3/16/2024,7,7,7,,1,picture
+5,Squalene,1000,3,3/16/2024,7,7,7,,1,picture
+1,Squalene,100,3,3/16/2024,7.5,7.5,7.5,,1,
+2,Squalene,100,3,3/16/2024,7,7,7,,1,
+3,Squalene,100,3,3/16/2024,8.5,8.5,8.5,,1,
+4,Squalene,100,3,3/16/2024,7,7,7,,1,picture
+5,Squalene,100,3,3/16/2024,7.5,7,7.25,,1,picture
+1,Squalene,10,3,3/16/2024,9.5,9.5,9.5,,1,
+2,Squalene,10,3,3/16/2024,9.5,9.5,9.5,,1,
+3,Squalene,10,3,3/16/2024,8.5,9,8.75,,1,
+4,Squalene,10,3,3/16/2024,8.5,8.5,8.5,,1,
+5,Squalene,10,3,3/16/2024,9,9.5,9.25,,1,
+1,Squalene,1,3,3/16/2024,8,8.5,8.25,,1,
+2,Squalene,1,3,3/16/2024,9.5,10,9.75,,1,
+3,Squalene,1,3,3/16/2024,9,9.5,9.25,,1,
+4,Squalene,1,3,3/16/2024,9,8.5,8.75,,1,
+5,Squalene,1,3,3/16/2024,9,9.5,9.25,,1,
+1,Squalene,0.1,3,3/16/2024,9,8,8.5,,1,
+2,Squalene,0.1,3,3/16/2024,10,9.5,9.75,,1,
+3,Squalene,0.1,3,3/16/2024,10,9.5,9.75,,1,
+4,Squalene,0.1,3,3/16/2024,9.5,10,9.75,,1,
+5,Squalene,0.1,3,3/16/2024,11,10,10.5,,1,
+1,Cholesterol,10000,3,3/16/2024,7,7,7,,1,
+2,Cholesterol,10000,3,3/16/2024,7,7,7,,1,
+3,Cholesterol,10000,3,3/16/2024,7,7,7,,1,
+4,Cholesterol,10000,3,3/16/2024,7,7,7,,1,Picture
+5,Cholesterol,10000,3,3/16/2024,7,7,7,,1,Picture
+1,Cholesterol,1000,3,3/16/2024,8,7,7.5,,1,
+2,Cholesterol,1000,3,3/16/2024,9,8,8.5,,1,
+3,Cholesterol,1000,3,3/16/2024,8,7,7.5,,1,
+4,Cholesterol,1000,3,3/16/2024,7.5,7.5,7.5,,1,Picture
+5,Cholesterol,1000,3,3/16/2024,9.5,8.5,9,,1,Picture
+1,Cholesterol,100,3,3/16/2024,9.5,10,9.75,,1,
+2,Cholesterol,100,3,3/16/2024,9.5,10,9.75,,1,
+3,Cholesterol,100,3,3/16/2024,9.5,9.5,9.5,,1,
+4,Cholesterol,100,3,3/16/2024,10,9.5,9.75,,1,Picture
+5,Cholesterol,100,3,3/16/2024,10,9.5,9.75,,1,Picture
+1,Cholesterol,10,3,3/16/2024,11,10.5,10.75,,1,
+2,Cholesterol,10,3,3/16/2024,9.5,10,9.75,,1,
+3,Cholesterol,10,3,3/16/2024,8.5,10,9.25,,1,
+4,Cholesterol,10,3,3/16/2024,10,10,10,,1,Picture
+5,Cholesterol,10,3,3/16/2024,10,10.5,10.25,,1,Picture
+1,Cholesterol,1,3,3/16/2024,7,7,7,,1,
+2,Cholesterol,1,3,3/16/2024,7,7,7,,1,
+3,Cholesterol,1,3,3/16/2024,9.5,8.5,9,,1,
+4,Cholesterol,1,3,3/16/2024,9.5,9,9.25,,1,Picture
+5,Cholesterol,1,3,3/16/2024,9,8.5,8.75,,1,Picture
+1,Keratin,10000,3,3/16/2024,10.5,11,10.75,,1,Picture
+2,Keratin,10000,3,3/16/2024,9.5,11,10.25,,1,Picture
+3,Keratin,10000,3,3/16/2024,10.5,10,10.25,,1,
+4,Keratin,10000,3,3/16/2024,11,11,11,,1,
+5,Keratin,10000,3,3/16/2024,10.5,10.5,10.5,,1,
+1,Keratin,1000,3,3/16/2024,10.5,11,10.75,,1,Picture
+2,Keratin,1000,3,3/16/2024,10.5,11,10.75,,1,Picture
+3,Keratin,1000,3,3/16/2024,11,11,11,,1,
+4,Keratin,1000,3,3/16/2024,11.5,12,11.75,,1,
+5,Keratin,1000,3,3/16/2024,10.5,11.5,11,,1,
+1,Keratin,100,3,3/16/2024,10.5,11,10.75,,1,Picture
+2,Keratin,100,3,3/16/2024,10,10.5,10.25,,1,Picture
+3,Keratin,100,3,3/16/2024,9.5,10.5,10,,1,
+4,Keratin,100,3,3/16/2024,10,10.5,10.25,,1,
+5,Keratin,100,3,3/16/2024,10,10.5,10.25,,1,
+1,Keratin,10,3,3/16/2024,8.5,8.5,8.5,,1,Picture
+2,Keratin,10,3,3/16/2024,10,9,9.5,,1,Picture
+3,Keratin,10,3,3/16/2024,8,8,8,,1,
+4,Keratin,10,3,3/16/2024,9,9,9,,1,
+5,Keratin,10,3,3/16/2024,9.5,9.5,9.5,,1,
+1,Keratin,1,3,3/16/2024,10.5,10,10.25,,1,Picture
+2,Keratin,1,3,3/16/2024,9.5,10,9.75,,1,Picture
+3,Keratin,1,3,3/16/2024,9,9.5,9.25,,1,
+4,Keratin,1,3,3/16/2024,9.5,9.5,9.5,,1,
+5,Keratin,1,3,3/16/2024,10.5,10.5,10.5,,1,
+1,Control - Plate,Control,6,3/19/2024,16.5,17,16.75,,1,
+2,Control - Plate,Control,6,3/19/2024,16.5,17,16.75,,1,
+3,Control - Plate,Control,6,3/19/2024,17,18,17.5,,1,
+4,Control - Plate,Control,6,3/19/2024,17.5,18,17.75,,1,Picture
+5,Control - Plate,Control,6,3/19/2024,16.5,17,16.75,,1,Picture
+1,Control - Glass,Control,6,3/19/2024,15,15.5,15.25,,1,
+2,Control - Glass,Control,6,3/19/2024,15.5,16,15.75,,1,
+3,Control - Glass,Control,6,3/19/2024,17,17,17,,1,
+4,Control - Glass,Control,6,3/19/2024,17,16.5,16.75,,1,
+5,Control - Glass,Control,6,3/19/2024,14,15,14.5,,1,
+1,Squalene,1000,6,3/19/2024,7,7,7,,1,
+2,Squalene,1000,6,3/19/2024,7,7,7,,1,
+3,Squalene,1000,6,3/19/2024,7,7,7,,1,
+4,Squalene,1000,6,3/19/2024,7,7,7,,1,"plate cracked, picture"
+5,Squalene,1000,6,3/19/2024,7,7,7,,1,picture
+1,Squalene,100,6,3/19/2024,10.5,11,10.75,,1,
+2,Squalene,100,6,3/19/2024,8.5,10,9.25,,1,
+3,Squalene,100,6,3/19/2024,10,10.5,10.25,,1,
+4,Squalene,100,6,3/19/2024,11,12,11.5,,1,"single mycelia shot from center, picture"
+5,Squalene,100,6,3/19/2024,11,12,11.5,,1,picture
+1,Squalene,10,6,3/19/2024,14,15,14.5,,1,
+2,Squalene,10,6,3/19/2024,13.5,14,13.75,,1,
+3,Squalene,10,6,3/19/2024,11,11,11,,1,
+4,Squalene,10,6,3/19/2024,12,12.5,12.25,,1,
+5,Squalene,10,6,3/19/2024,13,14.5,13.75,,1,
+1,Squalene,1,6,3/19/2024,14,14.5,14.25,,1,
+2,Squalene,1,6,3/19/2024,14.5,15,14.75,,1,
+3,Squalene,1,6,3/19/2024,14,14.5,14.25,,1,
+4,Squalene,1,6,3/19/2024,13.5,13.5,13.5,,1,
+5,Squalene,1,6,3/19/2024,13,14.5,13.75,,1,
+1,Squalene,0.1,6,3/19/2024,14,14.5,14.25,,1,
+2,Squalene,0.1,6,3/19/2024,14.5,14,14.25,,1,
+3,Squalene,0.1,6,3/19/2024,14.5,14,14.25,,1,
+4,Squalene,0.1,6,3/19/2024,14,15,14.5,,1,
+5,Squalene,0.1,6,3/19/2024,15.5,15,15.25,,1,
+1,Cholesterol,10000,6,3/19/2024,7,7,7,,1,
+2,Cholesterol,10000,6,3/19/2024,7,7,7,,1,
+3,Cholesterol,10000,6,3/19/2024,7,7,7,,1,
+4,Cholesterol,10000,6,3/19/2024,7,7,7,,1,Picture
+5,Cholesterol,10000,6,3/19/2024,7,7,7,,1,Picture
+1,Cholesterol,1000,6,3/19/2024,11.5,14,12.75,,1,
+2,Cholesterol,1000,6,3/19/2024,14.5,13,13.75,,1,
+3,Cholesterol,1000,6,3/19/2024,15,15,15,,1,
+4,Cholesterol,1000,6,3/19/2024,12.5,13,12.75,,1,Picture
+5,Cholesterol,1000,6,3/19/2024,13,13.5,13.25,,1,Picture
+1,Cholesterol,100,6,3/19/2024,11,11.5,11.25,,1,
+2,Cholesterol,100,6,3/19/2024,16.5,19.5,18,,1,
+3,Cholesterol,100,6,3/19/2024,16.5,17,16.75,,1,
+4,Cholesterol,100,6,3/19/2024,16.5,17,16.75,,1,Picture
+5,Cholesterol,100,6,3/19/2024,17,18.5,17.75,,1,Picture
+1,Cholesterol,10,6,3/19/2024,17,18,17.5,,1,
+2,Cholesterol,10,6,3/19/2024,16.5,15,15.75,,1,
+3,Cholesterol,10,6,3/19/2024,17,17,17,,1,
+4,Cholesterol,10,6,3/19/2024,17,17,17,,1,Picture
+5,Cholesterol,10,6,3/19/2024,17.5,19,18.25,,1,Picture
+1,Cholesterol,1,6,3/19/2024,15,15,15,,1,
+2,Cholesterol,1,6,3/19/2024,13.5,14.5,14,,1,
+3,Cholesterol,1,6,3/19/2024,17,17,17,,1,
+4,Cholesterol,1,6,3/19/2024,15.5,15,15.25,,1,Picture
+5,Cholesterol,1,6,3/19/2024,14,15,14.5,,1,Picture
+1,Keratin,10000,6,3/19/2024,19.5,21,20.25,,1,Picture
+2,Keratin,10000,6,3/19/2024,19.5,20.5,20,,1,Picture
+3,Keratin,10000,6,3/19/2024,20,20,20,,1,
+4,Keratin,10000,6,3/19/2024,20,20.5,20.25,,1,
+5,Keratin,10000,6,3/19/2024,19.5,20,19.75,,1,
+1,Keratin,1000,6,3/19/2024,20,20.5,20.25,,1,Picture
+2,Keratin,1000,6,3/19/2024,19.5,21,20.25,,1,Picture
+3,Keratin,1000,6,3/19/2024,19,19.5,19.25,,1,
+4,Keratin,1000,6,3/19/2024,19.5,20,19.75,,1,
+5,Keratin,1000,6,3/19/2024,19,19.5,19.25,,1,
+1,Keratin,100,6,3/19/2024,18.5,19,18.75,,1,Picture
+2,Keratin,100,6,3/19/2024,17.5,19,18.25,,1,Picture
+3,Keratin,100,6,3/19/2024,18,18.5,18.25,,1,
+4,Keratin,100,6,3/19/2024,18,18.5,18.25,,1,
+5,Keratin,100,6,3/19/2024,18,18.5,18.25,,1,
+1,Keratin,10,6,3/19/2024,15,15.5,15.25,,1,Picture
+2,Keratin,10,6,3/19/2024,16,16.5,16.25,,1,Picture
+3,Keratin,10,6,3/19/2024,14.5,16.5,15.5,,1,
+4,Keratin,10,6,3/19/2024,14.5,15,14.75,,1,
+5,Keratin,10,6,3/19/2024,15,17,16,,1,
+1,Keratin,1,6,3/19/2024,17,19,18,,1,Picture
+2,Keratin,1,6,3/19/2024,16.5,18,17.25,,1,Picture
+3,Keratin,1,6,3/19/2024,16.5,17,16.75,,1,
+4,Keratin,1,6,3/19/2024,17,17.5,17.25,,1,
+5,Keratin,1,6,3/19/2024,16.5,17,16.75,,1,
+1,Control - Plate,Control,9,3/22/2024,23,21,22,,1,
+2,Control - Plate,Control,9,3/22/2024,23.5,23.5,23.5,,1,
+3,Control - Plate,Control,9,3/22/2024,24,25.5,24.75,,1,
+4,Control - Plate,Control,9,3/22/2024,22,21.5,21.75,,1,Picture
+5,Control - Plate,Control,9,3/22/2024,25,25,25,,1,Picture
+1,Control - Glass,Control,9,3/22/2024,22.5,22,22.25,,1,
+2,Control - Glass,Control,9,3/22/2024,22,23,22.5,,1,
+3,Control - Glass,Control,9,3/22/2024,24.5,24.5,24.5,,1,
+4,Control - Glass,Control,9,3/22/2024,25,23,24,,1,
+5,Control - Glass,Control,9,3/22/2024,22,21,21.5,,1,
+1,Squalene,1000,9,3/22/2024,7,7,7,0,1,"plate cracked, plug fell after measurement"
+2,Squalene,1000,9,3/22/2024,7,7,7,0,1,
+3,Squalene,1000,9,3/22/2024,7,7,7,0,1,plate cracked
+4,Squalene,1000,9,3/22/2024,7,7,7,0,1,picture
+5,Squalene,1000,9,3/22/2024,7,7,7,0,1,picture
+1,Squalene,100,9,3/22/2024,,,#DIV/0!,,1,plug fell
+2,Squalene,100,9,3/22/2024,11,14,12.5,2,1,
+3,Squalene,100,9,3/22/2024,15.5,16,15.75,2,1,
+4,Squalene,100,9,3/22/2024,15,16,15.5,2,1,picture
+5,Squalene,100,9,3/22/2024,15,15,15,2,1,picture
+1,Squalene,10,9,3/22/2024,,,#DIV/0!,,1,plug fell
+2,Squalene,10,9,3/22/2024,19.5,19.5,19.5,2,1,
+3,Squalene,10,9,3/22/2024,19,18.5,18.75,2,1,
+4,Squalene,10,9,3/22/2024,21,19.5,20.25,2,1,picture
+5,Squalene,10,9,3/22/2024,22,21.5,21.75,2,1,picture
+1,Squalene,1,9,3/22/2024,21.5,20,20.75,2,1,
+2,Squalene,1,9,3/22/2024,20.5,20,20.25,2,1,
+3,Squalene,1,9,3/22/2024,21,21.5,21.25,2,1,
+4,Squalene,1,9,3/22/2024,20,19.5,19.75,2,1,picture
+5,Squalene,1,9,3/22/2024,20.5,20.5,20.5,2,1,picture
+1,Squalene,0.1,9,3/22/2024,15.5,17,16.25,1,1,
+2,Squalene,0.1,9,3/22/2024,19,18,18.5,2,1,
+3,Squalene,0.1,9,3/22/2024,18,19,18.5,1,1,
+4,Squalene,0.1,9,3/22/2024,,,#DIV/0!,,1,"plug fell, no measurement, no picture"
+5,Squalene,0.1,9,3/22/2024,19,19.5,19.25,,1,picture
+1,Cholesterol,10000,9,3/22/2024,19,20,19.5,1,1,
+2,Cholesterol,10000,9,3/22/2024,,,#DIV/0!,1,1,Too dense to read
+3,Cholesterol,10000,9,3/22/2024,24,24,24,1,1,
+4,Cholesterol,10000,9,3/22/2024,12,19,15.5,1,1,Picture; difficult measurement
+5,Cholesterol,10000,9,3/22/2024,23.5,18,20.75,1,1,Picture
+1,Cholesterol,1000,9,3/22/2024,18.5,19,18.75,1,1,
+2,Cholesterol,1000,9,3/22/2024,20,19,19.5,2,1,
+3,Cholesterol,1000,9,3/22/2024,23,21,22,2,1,
+4,Cholesterol,1000,9,3/22/2024,22,22.5,22.25,2,1,Picture
+5,Cholesterol,1000,9,3/22/2024,21,21,21,3,1,Picture
+1,Cholesterol,100,9,3/22/2024,24,23.5,23.75,3,1,
+2,Cholesterol,100,9,3/22/2024,26.5,25,25.75,2,1,
+3,Cholesterol,100,9,3/22/2024,25,23.5,24.25,2,1,
+4,Cholesterol,100,9,3/22/2024,24.5,24,24.25,3,1,Picture
+5,Cholesterol,100,9,3/22/2024,24.5,23.5,24,2,1,Picture
+1,Cholesterol,10,9,3/22/2024,25,26.5,25.75,2,1,
+2,Cholesterol,10,9,3/22/2024,25,25,25,2,1,
+3,Cholesterol,10,9,3/22/2024,24.5,24,24.25,3,1,
+4,Cholesterol,10,9,3/22/2024,21.5,21.5,21.5,3,1,Picture
+5,Cholesterol,10,9,3/22/2024,21,21,21,3,1,Picture
+1,Cholesterol,1,9,3/22/2024,21,21,21,2,1,
+2,Cholesterol,1,9,3/22/2024,19,18.5,18.75,2,1,
+3,Cholesterol,1,9,3/22/2024,23,22.5,22.75,2,1,
+4,Cholesterol,1,9,3/22/2024,25.5,24.5,25,3,1,Picture
+5,Cholesterol,1,9,3/22/2024,25,27,26,2,1,Picture
+1,Keratin,10000,9,3/22/2024,30,30,30,,1,Picture
+2,Keratin,10000,9,3/22/2024,29.5,30,29.75,,1,Picture
+3,Keratin,10000,9,3/22/2024,29.5,30,29.75,,1,
+4,Keratin,10000,9,3/22/2024,30,30,30,,1,
+5,Keratin,10000,9,3/22/2024,29.5,29.5,29.5,,1,
+1,Keratin,1000,9,3/22/2024,27.5,27.5,27.5,,1,Picture
+2,Keratin,1000,9,3/22/2024,27,28,27.5,,1,Picture
+3,Keratin,1000,9,3/22/2024,27,26.5,26.75,,1,
+4,Keratin,1000,9,3/22/2024,27.5,27,27.25,,1,
+5,Keratin,1000,9,3/22/2024,27,27.5,27.25,,1,
+1,Keratin,100,9,3/22/2024,26.5,27,26.75,,1,Picture
+2,Keratin,100,9,3/22/2024,25.5,25.5,25.5,,1,Picture
+3,Keratin,100,9,3/22/2024,25.5,26,25.75,,1,
+4,Keratin,100,9,3/22/2024,25.5,26,25.75,,1,
+5,Keratin,100,9,3/22/2024,25.5,25.5,25.5,,1,
+1,Keratin,10,9,3/22/2024,21,20.5,20.75,,1,Picture
+2,Keratin,10,9,3/22/2024,21.5,21,21.25,,1,Picture
+3,Keratin,10,9,3/22/2024,21.5,21,21.25,,1,
+4,Keratin,10,9,3/22/2024,21.5,21.5,21.5,,1,Plug fell off
+5,Keratin,10,9,3/22/2024,20.5,22.5,21.5,,1,
+1,Keratin,1,9,3/22/2024,25,25,25,,1,Picture
+2,Keratin,1,9,3/22/2024,24.5,25,24.75,,1,Picture
+3,Keratin,1,9,3/22/2024,23.5,24,23.75,,1,
+4,Keratin,1,9,3/22/2024,25.5,25,25.25,,1,
+5,Keratin,1,9,3/22/2024,24.5,25,24.75,,1,
+1,Control - Plate,Control,12,3/25/2024,28,28.5,28.25,2,1,
+2,Control - Plate,Control,12,3/25/2024,30.5,30,30.25,2,1,
+3,Control - Plate,Control,12,3/25/2024,30,32,31,2,1,
+4,Control - Plate,Control,12,3/25/2024,32,32,32,3,1,
+5,Control - Plate,Control,12,3/25/2024,28,28,28,2,1,
+1,Control - Glass,Control,12,3/25/2024,27.5,27.5,27.5,2,1,
+2,Control - Glass,Control,12,3/25/2024,27,27.5,27.25,2,1,
+3,Control - Glass,Control,12,3/25/2024,32,32,32,3,1,
+4,Control - Glass,Control,12,3/25/2024,32,31.5,31.75,3,1,
+5,Control - Glass,Control,12,3/25/2024,26.5,25,25.75,2,1,
+1,Squalene,1000,12,3/25/2024,,,#DIV/0!,,1,delete row
+2,Squalene,1000,12,3/25/2024,7,7,7,0,1,plug fell
+3,Squalene,1000,12,3/25/2024,7,7,7,0,1,
+4,Squalene,1000,12,3/25/2024,7,7,7,0,1,cracked agar
+5,Squalene,1000,12,3/25/2024,7,7,7,0,1,cracked agar
+1,Squalene,100,12,3/25/2024,21.5,21.5,21.5,1,1,plug fell
+2,Squalene,100,12,3/25/2024,21,21.5,21.25,2,1,
+3,Squalene,100,12,3/25/2024,22,23,22.5,2,1,
+4,Squalene,100,12,3/25/2024,20.5,22,21.25,2,1,picture
+5,Squalene,100,12,3/25/2024,21,21.5,21.25,2,1,picture
+1,Squalene,10,12,3/25/2024,,,#DIV/0!,,1,"plug fell, affected growth, delete row"
+2,Squalene,10,12,3/25/2024,26,26,26,2,1,
+3,Squalene,10,12,3/25/2024,25,24,24.5,2,1,
+4,Squalene,10,12,3/25/2024,26.5,26,26.25,2,1,picture
+5,Squalene,10,12,3/25/2024,28,27,27.5,2,1,picture
+1,Squalene,1,12,3/25/2024,27,26.5,26.75,2,1,
+2,Squalene,1,12,3/25/2024,26,26,26,3,1,
+3,Squalene,1,12,3/25/2024,28,27.5,27.75,3,1,
+4,Squalene,1,12,3/25/2024,26.5,26,26.25,3,1,picture
+5,Squalene,1,12,3/25/2024,26.5,27,26.75,2,1,picture
+1,Squalene,0.1,12,3/25/2024,26.5,23.5,25,1,1,
+2,Squalene,0.1,12,3/25/2024,25,23,24,2,1,plug fell
+3,Squalene,0.1,12,3/25/2024,25,24,24.5,2,1,
+4,Squalene,0.1,12,3/25/2024,25,25,25,2,1,plug fell
+5,Squalene,0.1,12,3/25/2024,26.5,26,26.25,2,1,picture
+1,Cholesterol,10000,12,3/25/2024,29,28,28.5,1,1,
+2,Cholesterol,10000,12,3/25/2024,26.5,21,23.75,1,1,
+3,Cholesterol,10000,12,3/25/2024,32,28,30,1,1,
+4,Cholesterol,10000,12,3/25/2024,26,26,26,1,1,picture
+5,Cholesterol,10000,12,3/25/2024,30,25,27.5,1,1,picture
+1,Cholesterol,1000,12,3/25/2024,23.5,23,23.25,1,1,
+2,Cholesterol,1000,12,3/25/2024,27,26.5,26.75,1,1,
+3,Cholesterol,1000,12,3/25/2024,30,29,29.5,2,1,
+4,Cholesterol,1000,12,3/25/2024,28,28.5,28.25,1,1,picture
+5,Cholesterol,1000,12,3/25/2024,29,29.5,29.25,2,1,picture
+1,Cholesterol,100,12,3/25/2024,32.5,32.5,32.5,3,1,
+2,Cholesterol,100,12,3/25/2024,34.5,33,33.75,3,1,
+3,Cholesterol,100,12,3/25/2024,33.5,33.5,33.5,3,1,
+4,Cholesterol,100,12,3/25/2024,32,30.5,31.25,3,1,picture
+5,Cholesterol,100,12,3/25/2024,32,31,31.5,3,1,picture
+1,Cholesterol,10,12,3/25/2024,28,28.5,28.25,3,1,
+2,Cholesterol,10,12,3/25/2024,26,27,26.5,2,1,
+3,Cholesterol,10,12,3/25/2024,27.5,26.5,27,3,1,
+4,Cholesterol,10,12,3/25/2024,33,33,33,3,1,picture
+5,Cholesterol,10,12,3/25/2024,31,31.5,31.25,2,1,picture
+1,Cholesterol,1,12,3/25/2024,33.5,34,33.75,2,1,
+2,Cholesterol,1,12,3/25/2024,33,32.5,32.75,3,1,
+3,Cholesterol,1,12,3/25/2024,30.5,31,30.75,3,1,
+4,Cholesterol,1,12,3/25/2024,28,28.5,28.25,3,1,picture
+5,Cholesterol,1,12,3/25/2024,27,27,27,3,1,picture
+1,Keratin,10000,12,3/25/2024,40,39.5,39.75,4,1,picture
+2,Keratin,10000,12,3/25/2024,39.5,39.5,39.5,4,1,picture
+3,Keratin,10000,12,3/25/2024,39.5,37.5,38.5,4,1,
+4,Keratin,10000,12,3/25/2024,40,39.5,39.75,4,1,
+5,Keratin,10000,12,3/25/2024,38,39.5,38.75,4,1,
+1,Keratin,1000,12,3/25/2024,35.5,36.5,36,4,1,picture
+2,Keratin,1000,12,3/25/2024,35.5,35.5,35.5,4,1,picture
+3,Keratin,1000,12,3/25/2024,36.5,35.5,36,4,1,
+4,Keratin,1000,12,3/25/2024,36,36,36,4,1,
+5,Keratin,1000,12,3/25/2024,35.5,36,35.75,4,1,
+1,Keratin,100,12,3/25/2024,35,35,35,3,1,picture
+2,Keratin,100,12,3/25/2024,33,33.5,33.25,3,1,picture
+3,Keratin,100,12,3/25/2024,33.5,31.5,32.5,3,1,
+4,Keratin,100,12,3/25/2024,33,33.5,33.25,3,1,
+5,Keratin,100,12,3/25/2024,33,33,33,3,1,
+1,Keratin,10,12,3/25/2024,27,26.5,26.75,2,1,picture
+2,Keratin,10,12,3/25/2024,27.5,28,27.75,2,1,picture
+3,Keratin,10,12,3/25/2024,27.5,27.5,27.5,2,1,
+4,Keratin,10,12,3/25/2024,,,#DIV/0!,,1,"plug fell, discarded"
+5,Keratin,10,12,3/25/2024,27,28,27.5,3,1,
+1,Keratin,1,12,3/25/2024,31,32.5,31.75,2,1,picture
+2,Keratin,1,12,3/25/2024,31,31,31,2,1,picture
+3,Keratin,1,12,3/25/2024,32,30.5,31.25,2,1,
+4,Keratin,1,12,3/25/2024,32.5,32,32.25,2,1,
+5,Keratin,1,12,3/25/2024,31.5,31,31.25,2,1,
+1,Control - Plate,Control,15,3/28/2024,34,34,34,3,1,
+2,Control - Plate,Control,15,3/28/2024,38,37.5,37.75,3,1,
+3,Control - Plate,Control,15,3/28/2024,38.5,39.5,39,3,1,
+4,Control - Plate,Control,15,3/28/2024,40,39.5,39.75,3,1,picture
+5,Control - Plate,Control,15,3/28/2024,34.5,35,34.75,3,1,picture
+1,Control - Glass,Control,15,3/28/2024,33,32,32.5,3,1,
+2,Control - Glass,Control,15,3/28/2024,33,34,33.5,3,1,
+3,Control - Glass,Control,15,3/28/2024,38.5,38.5,38.5,3,1,
+4,Control - Glass,Control,15,3/28/2024,40,38,39,3,1,picture
+5,Control - Glass,Control,15,3/28/2024,32,31.5,31.75,3,1,picture
+2,Squalene,1000,15,3/28/2024,7,7,7,0,1,
+3,Squalene,1000,15,3/28/2024,7,7,7,0,1,
+4,Squalene,1000,15,3/28/2024,7,7,7,0,1,picture
+5,Squalene,1000,15,3/28/2024,7,7,7,0,1,picture
+1,Squalene,100,15,3/28/2024,29,24.5,26.75,1,1,
+2,Squalene,100,15,3/28/2024,25.5,26.5,26,1,1,
+3,Squalene,100,15,3/28/2024,27,29,28,1,1,
+4,Squalene,100,15,3/28/2024,26,27,26.5,1,1,
+5,Squalene,100,15,3/28/2024,26,27.5,26.75,1,1,
+2,Squalene,10,15,3/28/2024,31.5,32.5,32,2,1,
+3,Squalene,10,15,3/28/2024,30.5,31,30.75,2,1,
+4,Squalene,10,15,3/28/2024,32.5,33.5,33,2,1,picture
+5,Squalene,10,15,3/28/2024,34,34,34,2,1,picture
+1,Squalene,1,15,3/28/2024,32,33,32.5,2,1,misshapen plug
+2,Squalene,1,15,3/28/2024,33,33.5,33.25,2,1,
+3,Squalene,1,15,3/28/2024,33.5,34,33.75,2,1,
+4,Squalene,1,15,3/28/2024,32,32.5,32.25,2,1,picture
+5,Squalene,1,15,3/28/2024,33,34,33.5,2,1,picture
+1,Squalene,0.1,15,3/28/2024,31.5,30,30.75,2,1,
+2,Squalene,0.1,15,3/28/2024,31.5,31.5,31.5,2,1,plug fell
+3,Squalene,0.1,15,3/28/2024,30,31,30.5,2,1,
+4,Squalene,0.1,15,3/28/2024,31,31.5,31.25,2,1,"picture, plug fell"
+5,Squalene,0.1,15,3/28/2024,33,33,33,2,1,picture
+1,Cholesterol,10000,15,3/28/2024,38,35.5,36.75,1,1,
+2,Cholesterol,10000,15,3/28/2024,36,33.5,34.75,1,1,
+3,Cholesterol,10000,15,3/28/2024,40,37.5,38.75,1,1,
+4,Cholesterol,10000,15,3/28/2024,37,34.5,35.75,1,1,picture
+5,Cholesterol,10000,15,3/28/2024,35,35,35,1,1,picture
+1,Cholesterol,1000,15,3/28/2024,31.5,31,31.25,1,1,
+2,Cholesterol,1000,15,3/28/2024,34,32.5,33.25,1,1,
+3,Cholesterol,1000,15,3/28/2024,35,35,35,1,1,
+4,Cholesterol,1000,15,3/28/2024,36.5,37,36.75,1,1,picture
+5,Cholesterol,1000,15,3/28/2024,35,36.5,35.75,1,1,picture
+1,Cholesterol,100,15,3/28/2024,39,39.5,39.25,2,1,
+2,Cholesterol,100,15,3/28/2024,41,40.5,40.75,2,1,
+3,Cholesterol,100,15,3/28/2024,40,40.5,40.25,2,1,
+4,Cholesterol,100,15,3/28/2024,39,38,38.5,2,1,picture
+5,Cholesterol,100,15,3/28/2024,38.5,39,38.75,2,1,picture
+1,Cholesterol,10,15,3/28/2024,34.5,35,34.75,2,1,
+2,Cholesterol,10,15,3/28/2024,33,33,33,2,1,
+3,Cholesterol,10,15,3/28/2024,35,36,35.5,2,1,
+4,Cholesterol,10,15,3/28/2024,40,39.5,39.75,2,1,picture
+5,Cholesterol,10,15,3/28/2024,39.5,40.5,40,2,1,picture
+1,Cholesterol,1,15,3/28/2024,41,41.5,41.25,2,1,
+2,Cholesterol,1,15,3/28/2024,41,40.5,40.75,2,1,
+3,Cholesterol,1,15,3/28/2024,38.5,38,38.25,2,1,
+4,Cholesterol,1,15,3/28/2024,33.5,34,33.75,2,1,picture
+5,Cholesterol,1,15,3/28/2024,32.5,33,32.75,2,1,picture
+1,Keratin,10000,15,3/28/2024,50,49.5,49.75,4,1,picture
+2,Keratin,10000,15,3/28/2024,49.5,49.5,49.5,4,1,picture
+3,Keratin,10000,15,3/28/2024,49.5,48,48.75,4,1,
+4,Keratin,10000,15,3/28/2024,49,49,49,4,1,
+5,Keratin,10000,15,3/28/2024,49,49.5,49.25,4,1,
+1,Keratin,1000,15,3/28/2024,45,45,45,4,1,picture
+2,Keratin,1000,15,3/28/2024,44.5,44.5,44.5,4,1,picture
+3,Keratin,1000,15,3/28/2024,45,43.5,44.25,4,1,
+4,Keratin,1000,15,3/28/2024,45,44.5,44.75,4,1,
+5,Keratin,1000,15,3/28/2024,45,45,45,4,1,
+1,Keratin,100,15,3/28/2024,43,42.5,42.75,3,1,picture
+2,Keratin,100,15,3/28/2024,40,43,41.5,3,1,picture
+3,Keratin,100,15,3/28/2024,42.5,42.5,42.5,3,1,
+4,Keratin,100,15,3/28/2024,41,41.5,41.25,3,1,
+5,Keratin,100,15,3/28/2024,42,42,42,3,1,
+1,Keratin,10,15,3/28/2024,32.5,32,32.25,2,1,picture
+2,Keratin,10,15,3/28/2024,34.5,34,34.25,2,1,picture
+3,Keratin,10,15,3/28/2024,32.5,33,32.75,2,1,
+5,Keratin,10,15,3/28/2024,33.5,34,33.75,2,1,
+1,Keratin,1,15,3/28/2024,39,40,39.5,2,1,picture
+2,Keratin,1,15,3/28/2024,38.5,39,38.75,2,1,picture
+3,Keratin,1,15,3/28/2024,39,38.5,38.75,2,1,
+4,Keratin,1,15,3/28/2024,39.5,40,39.75,2,1,
+5,Keratin,1,15,3/28/2024,40.5,40,40.25,3,1,
+1,Control - Plate,Control,18,3/31/2024,42,41,41.5,3,1,
+2,Control - Plate,Control,18,3/31/2024,45,46,45.5,3,1,
+3,Control - Plate,Control,18,3/31/2024,46,46,46,3,1,
+4,Control - Plate,Control,18,3/31/2024,46.5,46.5,46.5,3,1,picture
+5,Control - Plate,Control,18,3/31/2024,41,41.5,41.25,3,1,picture
+1,Control - Glass,Control,18,3/31/2024,40,38,39,3,1,
+2,Control - Glass,Control,18,3/31/2024,40.5,41.5,41,3,1,
+3,Control - Glass,Control,18,3/31/2024,48,46.5,47.25,3,1,
+4,Control - Glass,Control,18,3/31/2024,48,46.5,47.25,3,1,picture
+5,Control - Glass,Control,18,3/31/2024,39.5,39,39.25,3,1,picture
+2,Squalene,1000,18,3/31/2024,7,7,7,0,1,
+3,Squalene,1000,18,3/31/2024,7,7,7,0,1,
+4,Squalene,1000,18,3/31/2024,7,7,7,0,1,picture
+5,Squalene,1000,18,3/31/2024,7,7,7,0,1,picture
+1,Squalene,100,18,3/31/2024,42,33,37.5,1,1,"plug fell, will interfere with red growth"
+2,Squalene,100,18,3/31/2024,31.5,32.5,32,2,1,
+3,Squalene,100,18,3/31/2024,32,31,31.5,2,1,
+4,Squalene,100,18,3/31/2024,31.5,32,31.75,2,1,picture
+5,Squalene,100,18,3/31/2024,31.5,31.5,31.5,2,1,picture
+2,Squalene,10,18,3/31/2024,39,39.5,39.25,2,1,"plug fell, will not affect growth"
+3,Squalene,10,18,3/31/2024,36.5,36,36.25,2,1,
+4,Squalene,10,18,3/31/2024,39.5,39.5,39.5,2,1,picture
+5,Squalene,10,18,3/31/2024,40,38,39,2,1,picture
+1,Squalene,1,18,3/31/2024,37.5,37.5,37.5,2,1,
+2,Squalene,1,18,3/31/2024,41,40,40.5,2,1,
+3,Squalene,1,18,3/31/2024,41,40.5,40.75,2,1,
+4,Squalene,1,18,3/31/2024,39,39.5,39.25,2,1,picture
+5,Squalene,1,18,3/31/2024,40,39.5,39.75,2,1,picture
+1,Squalene,0.1,18,3/31/2024,38,36,37,2,1,
+2,Squalene,0.1,18,3/31/2024,38,37.5,37.75,2,1,"plug fell, will not interfere with growth"
+3,Squalene,0.1,18,3/31/2024,37.5,36,36.75,2,1,plug fell
+4,Squalene,0.1,18,3/31/2024,38.5,38.5,38.5,2,1,"picture, plug fell, will not interfere with growth"
+5,Squalene,0.1,18,3/31/2024,39.5,38.5,39,3,1,picture
+1,Cholesterol,10000,18,3/31/2024,44.5,43,43.75,2,1,
+2,Cholesterol,10000,18,3/31/2024,46.5,46.5,46.5,1,1,
+3,Cholesterol,10000,18,3/31/2024,47,46,46.5,1,1,
+4,Cholesterol,10000,18,3/31/2024,44,41,42.5,1,1,"picture, difficult to see mycelium"
+5,Cholesterol,10000,18,3/31/2024,45,41.5,43.25,1,1,picture
+1,Cholesterol,1000,18,3/31/2024,40.5,38.5,39.5,1,1,"difficult to see mycelium, measured from top"
+2,Cholesterol,1000,18,3/31/2024,41,40.5,40.75,1,1,
+3,Cholesterol,1000,18,3/31/2024,43,42.5,42.75,1,1,
+4,Cholesterol,1000,18,3/31/2024,43,43.5,43.25,1,1,picture
+5,Cholesterol,1000,18,3/31/2024,44,43,43.5,1,1,picture
+1,Cholesterol,100,18,3/31/2024,47.5,47.5,47.5,2,1,
+2,Cholesterol,100,18,3/31/2024,48.5,48,48.25,2,1,
+3,Cholesterol,100,18,3/31/2024,48.5,49,48.75,2,1,
+4,Cholesterol,100,18,3/31/2024,46,45.5,45.75,3,1,picture
+5,Cholesterol,100,18,3/31/2024,47,46.5,46.75,2,1,picture
+1,Cholesterol,10,18,3/31/2024,49,49,49,2,1,
+2,Cholesterol,10,18,3/31/2024,49.5,47,48.25,3,1,
+3,Cholesterol,10,18,3/31/2024,48,47,47.5,2,1,
+4,Cholesterol,10,18,3/31/2024,41,42,41.5,2,1,picture
+5,Cholesterol,10,18,3/31/2024,38,38.5,38.25,2,1,picture
+1,Cholesterol,1,18,3/31/2024,42.5,42,42.25,2,1,
+2,Cholesterol,1,18,3/31/2024,39.5,39,39.25,2,1,
+3,Cholesterol,1,18,3/31/2024,40.5,42.5,41.5,2,1,
+4,Cholesterol,1,18,3/31/2024,48.5,48,48.25,2,1,picture
+5,Cholesterol,1,18,3/31/2024,48,47.5,47.75,2,1,picture
+1,Keratin,10000,18,3/31/2024,60,59.5,59.75,4,1,Picture
+2,Keratin,10000,18,3/31/2024,59.5,59,59.25,4,1,Picture
+3,Keratin,10000,18,3/31/2024,60,58.5,59.25,4,1,
+4,Keratin,10000,18,3/31/2024,59.5,58.5,59,4,1,
+5,Keratin,10000,18,3/31/2024,60,59.5,59.75,4,1,
+1,Keratin,1000,18,3/31/2024,55,54.5,54.75,4,1,Picture
+2,Keratin,1000,18,3/31/2024,53.5,53,53.25,4,1,Picture
+3,Keratin,1000,18,3/31/2024,54,53.5,53.75,4,1,
+4,Keratin,1000,18,3/31/2024,53.5,54,53.75,4,1,
+5,Keratin,1000,18,3/31/2024,54.5,54.5,54.5,4,1,
+1,Keratin,100,18,3/31/2024,51,50.5,50.75,3,1,Picture
+2,Keratin,100,18,3/31/2024,50.5,50,50.25,3,1,Picture
+3,Keratin,100,18,3/31/2024,50.5,50,50.25,3,1,
+4,Keratin,100,18,3/31/2024,49.5,49.5,49.5,3,1,
+5,Keratin,100,18,3/31/2024,51,50,50.5,3,1,
+1,Keratin,10,18,3/31/2024,38.5,38.5,38.5,2,1,
+2,Keratin,10,18,3/31/2024,41,41,41,2,1,
+3,Keratin,10,18,3/31/2024,39,39.5,39.25,2,1,"plug fell, initial growth is being affected"
+5,Keratin,10,18,3/31/2024,41.5,41,41.25,2,1,
+1,Keratin,1,18,3/31/2024,46.5,47,46.75,2,1,picture
+2,Keratin,1,18,3/31/2024,46,46,46,2,1,picture
+3,Keratin,1,18,3/31/2024,48,47.5,47.75,2,1,
+4,Keratin,1,18,3/31/2024,48.5,47,47.75,2,1,
+5,Keratin,1,18,3/31/2024,48,48,48,2,1,
+1,Control - Plate,Control,21,4/3/2024,47.5,46.5,47,2,1,
+2,Control - Plate,Control,21,4/3/2024,53,52.5,52.75,2,1,
+3,Control - Plate,Control,21,4/3/2024,53,54,53.5,2,1,
+4,Control - Plate,Control,21,4/3/2024,54,54,54,2,1,picture
+5,Control - Plate,Control,21,4/3/2024,47,47,47,2,1,picture
+1,Control - Glass,Control,21,4/3/2024,45,44.5,44.75,2,1,
+2,Control - Glass,Control,21,4/3/2024,47,46.5,46.75,2,1,
+3,Control - Glass,Control,21,4/3/2024,54.5,53.5,54,2,1,
+4,Control - Glass,Control,21,4/3/2024,55,53.5,54.25,2,1,picture
+5,Control - Glass,Control,21,4/3/2024,44,44,44,2,1,picture
+2,Squalene,1000,21,4/3/2024,7,7,7,0,1,
+3,Squalene,1000,21,4/3/2024,7,7,7,0,1,
+4,Squalene,1000,21,4/3/2024,7,7,7,0,1,picture
+5,Squalene,1000,21,4/3/2024,7,7,7,0,1,picture
+1,Squalene,100,21,4/3/2024,,40,40,2,1,"plug fell, interfering with red growth"
+2,Squalene,100,21,4/3/2024,37,37,37,2,1,
+3,Squalene,100,21,4/3/2024,37.5,37,37.25,2,1,
+4,Squalene,100,21,4/3/2024,37.5,38.5,38,2,1,picture
+5,Squalene,100,21,4/3/2024,38,37.5,37.75,2,1,picture
+2,Squalene,10,21,4/3/2024,45.5,46,45.75,2,1,plug fell
+3,Squalene,10,21,4/3/2024,47.5,48,47.75,2,1,
+4,Squalene,10,21,4/3/2024,45.5,46,45.75,2,1,picture
+5,Squalene,10,21,4/3/2024,47,47,47,2,1,picture
+1,Squalene,1,21,4/3/2024,44.5,45.5,45,2,1,
+2,Squalene,1,21,4/3/2024,46,46.5,46.25,2,1,
+3,Squalene,1,21,4/3/2024,47,47.5,47.25,2,1,
+4,Squalene,1,21,4/3/2024,43.5,45,44.25,2,1,picture
+5,Squalene,1,21,4/3/2024,47,47,47,2,1,picture
+1,Squalene,0.1,21,4/3/2024,44.5,43,43.75,2,1,
+2,Squalene,0.1,21,4/3/2024,44,44.5,44.25,2,1,plug fell
+3,Squalene,0.1,21,4/3/2024,44,44,44,2,1,plug fell
+4,Squalene,0.1,21,4/3/2024,44,45,44.5,2,1,plug fell
+5,Squalene,0.1,21,4/3/2024,45,45,45,2,1,picture
+1,Cholesterol,10000,21,4/3/2024,51,50.5,50.75,1,1,
+2,Cholesterol,10000,21,4/3/2024,51.5,49,50.25,1,1,
+3,Cholesterol,10000,21,4/3/2024,52,54,53,1,1,
+4,Cholesterol,10000,21,4/3/2024,47.5,47.5,47.5,1,1,picture
+5,Cholesterol,10000,21,4/3/2024,47.5,48,47.75,1,1,picture
+1,Cholesterol,1000,21,4/3/2024,46,44.5,45.25,1,1,
+2,Cholesterol,1000,21,4/3/2024,47.5,47.5,47.5,2,1,
+3,Cholesterol,1000,21,4/3/2024,48.5,48.5,48.5,2,1,
+4,Cholesterol,1000,21,4/3/2024,49,50.5,49.75,2,1,picture
+5,Cholesterol,1000,21,4/3/2024,49,47.5,48.25,2,1,picture
+1,Cholesterol,100,21,4/3/2024,53.5,53,53.25,2,1,
+2,Cholesterol,100,21,4/3/2024,55,56,55.5,2,1,
+3,Cholesterol,100,21,4/3/2024,56,55,55.5,2,1,
+4,Cholesterol,100,21,4/3/2024,54,54.5,54.25,2,1,picture
+5,Cholesterol,100,21,4/3/2024,56,55.5,55.75,2,1,picture
+1,Cholesterol,10,21,4/3/2024,57,57,57,2,1,
+2,Cholesterol,10,21,4/3/2024,56.5,56,56.25,2,1,
+3,Cholesterol,10,21,4/3/2024,54.5,56.5,55.5,2,1,
+4,Cholesterol,10,21,4/3/2024,46,47.5,46.75,2,1,picture
+5,Cholesterol,10,21,4/3/2024,44,44.5,44.25,2,1,picture
+1,Cholesterol,1,21,4/3/2024,48.5,49,48.75,2,1,
+2,Cholesterol,1,21,4/3/2024,46.5,47,46.75,2,1,
+3,Cholesterol,1,21,4/3/2024,47.5,48,47.75,2,1,
+4,Cholesterol,1,21,4/3/2024,55,55,55,2,1,picture
+5,Cholesterol,1,21,4/3/2024,55,57.5,56.25,2,1,picture
+1,Keratin,10000,21,4/3/2024,69,68.5,68.75,4,1,picture
+2,Keratin,10000,21,4/3/2024,69.5,69,69.25,4,1,picture
+3,Keratin,10000,21,4/3/2024,70,67,68.5,4,1,
+4,Keratin,10000,21,4/3/2024,69,68.5,68.75,4,1,
+5,Keratin,10000,21,4/3/2024,70,70,70,4,1,
+1,Keratin,1000,21,4/3/2024,63.5,63,63.25,4,1,picture
+2,Keratin,1000,21,4/3/2024,63.5,63,63.25,4,1,picture
+3,Keratin,1000,21,4/3/2024,63,61,62,4,1,
+4,Keratin,1000,21,4/3/2024,62.5,62,62.25,4,1,
+5,Keratin,1000,21,4/3/2024,63.5,63,63.25,4,1,
+1,Keratin,100,21,4/3/2024,60.5,59.5,60,3,1,picture
+2,Keratin,100,21,4/3/2024,60,58,59,3,1,picture
+3,Keratin,100,21,4/3/2024,60,60,60,3,1,
+4,Keratin,100,21,4/3/2024,57.5,57,57.25,3,1,
+5,Keratin,100,21,4/3/2024,59.5,58,58.75,3,1,
+1,Keratin,10,21,4/3/2024,45,46,45.5,2,1,picture
+2,Keratin,10,21,4/3/2024,47,48,47.5,2,1,picture
+3,Keratin,10,21,4/3/2024,46.5,45,45.75,2,1,"plug fell, will not interfere with measurements"
+5,Keratin,10,21,4/3/2024,48,48,48,2,1,
+1,Keratin,1,21,4/3/2024,54.5,55,54.75,2,1,picture
+2,Keratin,1,21,4/3/2024,54.5,54,54.25,2,1,picture
+3,Keratin,1,21,4/3/2024,55,55,55,2,1,
+4,Keratin,1,21,4/3/2024,56,54,55,2,1,
+5,Keratin,1,21,4/3/2024,55,55.5,55.25,2,1,
+1,Keratin + Squal,10000,3,3/22/2024,7,7,7,0,2,picture
+2,Keratin + Squal,10000,3,3/22/2024,7,7,7,0,2,"picture, plug is misshapen"
+3,Keratin + Squal,10000,3,3/22/2024,7,7,7,0,2,
+4,Keratin + Squal,10000,3,3/22/2024,7,7,7,0,2,
+5,Keratin + Squal,10000,3,3/22/2024,7,7,7,0,2,plate cracked
+1,Keratin + Chol,10000,3,3/22/2024,11.5,12,11.75,2,2,picture
+2,Keratin + Chol,10000,3,3/22/2024,11.5,12,11.75,2,2,picture
+3,Keratin + Chol,10000,3,3/22/2024,12,12.5,12.25,2,2,
+4,Keratin + Chol,10000,3,3/22/2024,12.5,12.5,12.5,2,2,
+1,Keratin + Oleic,10000,3,3/22/2024,7,7,7,0,2,picture
+2,Keratin + Oleic,10000,3,3/22/2024,7,7,7,0,2,picture
+3,Keratin + Oleic,10000,3,3/22/2024,7,7,7,0,2,
+4,Keratin + Oleic,10000,3,3/22/2024,7,7,7,0,2,
+5,Keratin + Oleic,10000,3,3/22/2024,7,7,7,0,2,
+1,Control - Plate,Control,3,3/22/2024,10.5,9.5,10,1,2,picture
+2,Control - Plate,Control,3,3/22/2024,9.5,10,9.75,1,2,picture
+3,Control - Plate,Control,3,3/22/2024,,,#DIV/0!,,2,wet – discarded
+4,Control - Plate,Control,3,3/22/2024,,,#DIV/0!,,2,wet – discarded
+5,Control - Plate,Control,3,3/22/2024,,,#DIV/0!,,2,wet – discarded
+1,Keratin + Squal,10000,6,3/25/2024,7,7,7,0,2,picture
+2,Keratin + Squal,10000,6,3/25/2024,7,7,7,0,2,"plug fell, plate cracked"
+3,Keratin + Squal,10000,6,3/25/2024,7,7,7,0,2,
+4,Keratin + Squal,10000,6,3/25/2024,7,7,7,0,2,
+5,Keratin + Squal,10000,6,3/25/2024,7,7,7,0,2,
+1,Keratin + Chol,10000,6,3/25/2024,20,19.5,19.75,4,2,"picture, plate is wet, marked by eye"
+2,Keratin + Chol,10000,6,3/25/2024,17,17,17,4,2,"picture, marked by eye"
+3,Keratin + Chol,10000,6,3/25/2024,18.5,18,18.25,4,2,marked by eye
+4,Keratin + Chol,10000,6,3/25/2024,17.5,17,17.25,4,2,marked by eye
+1,Keratin + Oleic,10000,6,3/25/2024,8,8,8,1,2,"picture, plug is covered in mycelium"
+2,Keratin + Oleic,10000,6,3/25/2024,8,8,8,1,2,"picture, plug is covered in mycelium"
+3,Keratin + Oleic,10000,6,3/25/2024,8,8,8,1,2,plug is covered in mycelium
+4,Keratin + Oleic,10000,6,3/25/2024,8,8,8,1,2,"plate is wet, plug is covered in mycelium"
+5,Keratin + Oleic,10000,6,3/25/2024,8,8,8,1,2,"plug fell, plate is wet, plug is covered in mycelium"
+1,Control - Plate,Control,6,3/25/2024,15,13.5,14.25,2,2,picture
+2,Control - Plate,Control,6,3/25/2024,14,14,14,2,2,
+1,Keratin + Squal,10000,9,3/28/2024,7,7,7,0,2,picture
+2,Keratin + Squal,10000,9,3/28/2024,7,7,7,0,2,
+3,Keratin + Squal,10000,9,3/28/2024,7,7,7,0,2,
+4,Keratin + Squal,10000,9,3/28/2024,7,7,7,0,2,
+5,Keratin + Squal,10000,9,3/28/2024,7,7,7,0,2,
+1,Keratin + Chol,10000,9,3/28/2024,28.5,29,28.75,3,2,"picture, marked by eye"
+2,Keratin + Chol,10000,9,3/28/2024,28,29,28.5,3,2,"picture, marked by eye"
+3,Keratin + Chol,10000,9,3/28/2024,28,28.5,28.25,3,2,marked by eye
+4,Keratin + Chol,10000,9,3/28/2024,27,27.5,27.25,3,2,marked by eye
+1,Keratin + Oleic,10000,9,3/28/2024,13,13,13,4,2,picture; see picture of thick growth around plug
+2,Keratin + Oleic,10000,9,3/28/2024,11.5,11,11.25,4,2,picture; see picture of thick growth around plug
+3,Keratin + Oleic,10000,9,3/28/2024,13,14,13.5,4,2,
+4,Keratin + Oleic,10000,9,3/28/2024,13.5,13.5,13.5,4,2,
+5,Keratin + Oleic,10000,9,3/28/2024,12.5,14,13.25,4,2,
+1,Control - Plate,Control,9,3/28/2024,16.5,16,16.25,1,2,"picture, extremely wet, limited growth"
+2,Control - Plate,Control,9,3/28/2024,16,16,16,1,2,"picture, extremely wet, limited growth"
+1,Keratin + Squal,10000,12,3/31/2024,7,7,7,0,2,picture
+2,Keratin + Squal,10000,12,3/31/2024,7,7,7,0,2,plug fell
+3,Keratin + Squal,10000,12,3/31/2024,7,7,7,0,2,
+4,Keratin + Squal,10000,12,3/31/2024,7,7,7,0,2,
+5,Keratin + Squal,10000,12,3/31/2024,7,7,7,0,2,wet
+1,Keratin + Chol,10000,12,3/31/2024,39,38.5,38.75,2,2,picture
+2,Keratin + Chol,10000,12,3/31/2024,39.5,39,39.25,2,2,picture
+3,Keratin + Chol,10000,12,3/31/2024,38,37.5,37.75,2,2,"bubble in plate, should not interfere with measurements but will alter growth"
+4,Keratin + Chol,10000,12,3/31/2024,38,38,38,2,2,"bubble in plate, should not interfere with measurements but will alter growth"
+1,Keratin + Oleic,10000,12,3/31/2024,20.5,20,20.25,4,2,"picture, interesting morphology, marked on bottom"
+2,Keratin + Oleic,10000,12,3/31/2024,18,18.5,18.25,4,2,"picture, interesting morphology, marked on bottom"
+3,Keratin + Oleic,10000,12,3/31/2024,20,20,20,4,2,"interesting morphology, marked on bottom"
+4,Keratin + Oleic,10000,12,3/31/2024,21.5,19,20.25,4,2,"interesting morphology, marked on bottom"
+5,Keratin + Oleic,10000,12,3/31/2024,20,20,20,4,2,"interesting morphology, marked on bottom"
+1,Control - Plate,Control,12,3/31/2024,27,25,26,1,2,"picture, wet plate"
+2,Control - Plate,Control,12,3/31/2024,26,25.5,25.75,2,2,"picture, wet plate"
+1,Keratin + Squal,10000,15,4/3/2024,7,7,7,0,2,picture
+2,Keratin + Squal,10000,15,4/3/2024,7,7,7,0,2,plug fell
+3,Keratin + Squal,10000,15,4/3/2024,7,7,7,0,2,
+4,Keratin + Squal,10000,15,4/3/2024,7,7,7,0,2,
+5,Keratin + Squal,10000,15,4/3/2024,7,7,7,0,2,
+1,Keratin + Chol,10000,15,4/3/2024,49,49,49,2,2,"picture, measured from top"
+2,Keratin + Chol,10000,15,4/3/2024,48.5,49,48.75,2,2,"picture, measured from top"
+3,Keratin + Chol,10000,15,4/3/2024,48,48,48,2,2,"bubble in plate, should not interfere with measurements but will alter growth"
+4,Keratin + Chol,10000,15,4/3/2024,45.5,47,46.25,2,2,"bubble in plate, should not interfere with measurements but will alter growth"
+1,Keratin + Oleic,10000,15,4/3/2024,28,27.5,27.75,4,2,picture
+2,Keratin + Oleic,10000,15,4/3/2024,25,25,25,4,2,picture
+3,Keratin + Oleic,10000,15,4/3/2024,25.5,26.5,26,4,2,
+4,Keratin + Oleic,10000,15,4/3/2024,26,26,26,4,2,
+5,Keratin + Oleic,10000,15,4/3/2024,25.5,26,25.75,4,2,
+1,Control - Plate,Control,15,4/3/2024,33,32,32.5,2,2,picture
+2,Control - Plate,Control,15,4/3/2024,31.5,32,31.75,2,2,"wet plate, no picture"
+1,Keratin + Squal,10000,18,4/6/2024,7,7,7,0,2,picture
+2,Keratin + Squal,10000,18,4/6/2024,7,7,7,0,2,"picture, plug fell"
+3,Keratin + Squal,10000,18,4/6/2024,7,7,7,0,2,
+4,Keratin + Squal,10000,18,4/6/2024,7,7,7,0,2,
+5,Keratin + Squal,10000,18,4/6/2024,7,7,7,0,2,
+1,Keratin + Chol,10000,18,4/6/2024,60,61,60.5,2,2,"picture, measured from top"
+2,Keratin + Chol,10000,18,4/6/2024,59,61,60,2,2,"picture, measured from top"
+3,Keratin + Chol,10000,18,4/6/2024,59,61,60,2,2,"bubble in plate, should not interfere with measurements but will alter growth"
+4,Keratin + Chol,10000,18,4/6/2024,60,60,60,2,2,"bubble in plate, should not interfere with measurements but will alter growth"
+1,Keratin + Oleic,10000,18,4/6/2024,35,35,35,4,2,picture
+2,Keratin + Oleic,10000,18,4/6/2024,33,32,32.5,4,2,picture
+3,Keratin + Oleic,10000,18,4/6/2024,34,34,34,4,2,
+4,Keratin + Oleic,10000,18,4/6/2024,35,34,34.5,4,2,
+5,Keratin + Oleic,10000,18,4/6/2024,34,34,34,4,2,
+1,Control - Plate,Control,18,4/6/2024,39,40,39.5,2,2,"wet plate, no picture"
+2,Control - Plate,Control,18,4/6/2024,38,39,38.5,2,2,"wet plate, no picture"
+1,Keratin + Squal,10000,21,4/9/2024,7,7,7,0,2,picture
+2,Keratin + Squal,10000,21,4/9/2024,7,7,7,0,2,"picture, plug fell"
+3,Keratin + Squal,10000,21,4/9/2024,7,7,7,0,2,
+4,Keratin + Squal,10000,21,4/9/2024,7,7,7,0,2,
+5,Keratin + Squal,10000,21,4/9/2024,7,7,7,0,2,
+1,Keratin + Chol,10000,21,4/9/2024,71,70,70.5,2,2,"picture, measured from top"
+2,Keratin + Chol,10000,21,4/9/2024,70,71,70.5,2,2,"picture, measured from top"
+3,Keratin + Chol,10000,21,4/9/2024,70,69,69.5,2,2,"bubble in plate, should not interfere with measurements but will alter growth"
+4,Keratin + Chol,10000,21,4/9/2024,70,69,69.5,2,2,"bubble in plate, should not interfere with measurements but will alter growth"
+1,Keratin + Oleic,10000,21,4/9/2024,42,42,42,4,2,picture
+2,Keratin + Oleic,10000,21,4/9/2024,40,39,39.5,4,2,picture
+3,Keratin + Oleic,10000,21,4/9/2024,40,40,40,4,2,
+4,Keratin + Oleic,10000,21,4/9/2024,42,41,41.5,4,2,
+5,Keratin + Oleic,10000,21,4/9/2024,41,41,41,4,2,
+1,Control - Plate,Control,21,4/9/2024,46,46,46,2,2,"wet plate, picture"
+2,Control - Plate,Control,21,4/9/2024,45,45,45,2,2,"wet plate, no picture"
+1,Control - Plate,Control,3,3/25/2024,11,11,11,1,3,picture
+2,Control - Plate,Control,3,3/25/2024,10.5,10,10.25,1,3,"picture, lopsided plug"
+3,Control - Plate,Control,3,3/25/2024,9.5,8,8.75,1,3,
+4,Control - Plate,Control,3,3/25/2024,9.5,9.5,9.5,1,3,
+5,Control - Plate,Control,3,3/25/2024,10,10,10,1,3,
+1,Oleic Acid,10000,3,3/25/2024,9.5,9,9.25,1,3,picture
+2,Oleic Acid,10000,3,3/25/2024,10.5,11,10.75,1,3,picture
+3,Oleic Acid,10000,3,3/25/2024,10,10,10,1,3,
+4,Oleic Acid,10000,3,3/25/2024,9.5,10,9.75,1,3,
+5,Oleic Acid,10000,3,3/25/2024,9.5,9.5,9.5,1,3,lipid globule present in medium
+1,Oleic Acid,1000,3,3/25/2024,8,8,8,1,3,picture
+2,Oleic Acid,1000,3,3/25/2024,10,9.5,9.75,1,3,picture
+3,Oleic Acid,1000,3,3/25/2024,10,9.5,9.75,1,3,
+4,Oleic Acid,1000,3,3/25/2024,8,9.5,8.75,1,3,
+5,Oleic Acid,1000,3,3/25/2024,9,9.5,9.25,1,3,
+1,Oleic Acid,100,3,3/25/2024,10,10,10,1,3,picture
+2,Oleic Acid,100,3,3/25/2024,10.5,10.5,10.5,1,3,picture
+3,Oleic Acid,100,3,3/25/2024,10.5,10,10.25,1,3,
+4,Oleic Acid,100,3,3/25/2024,9.5,9.5,9.5,1,3,
+5,Oleic Acid,100,3,3/25/2024,9.5,10.5,10,1,3,
+1,Oleic Acid,10,3,3/25/2024,7,7,7,0,3,picture
+2,Oleic Acid,10,3,3/25/2024,8,8,8,1,3,picture
+3,Oleic Acid,10,3,3/25/2024,8,9,8.5,1,3,
+4,Oleic Acid,10,3,3/25/2024,9.5,10,9.75,1,3,
+5,Oleic Acid,10,3,3/25/2024,10.5,10.5,10.5,1,3,
+1,Oleic Acid,1,3,3/25/2024,11.5,10.5,11,1,3,picture
+2,Oleic Acid,1,3,3/25/2024,11.5,11,11.25,1,3,picture
+3,Oleic Acid,1,3,3/25/2024,10,11,10.5,1,3,
+4,Oleic Acid,1,3,3/25/2024,9.5,10,9.75,1,3,
+5,Oleic Acid,1,3,3/25/2024,11.5,11.5,11.5,1,3,
+1,Control - Plate,Control,6,3/28/2024,14,14,14,1,3,"picture, wet plate, parafilm removed until next measurement to reduce wetness"
+2,Control - Plate,Control,6,3/28/2024,13,12,12.5,1,3,"picture, wet plate, parafilm removed until next measurement to reduce wetness"
+3,Control - Plate,Control,6,3/28/2024,14.5,14,14.25,1,3,"wet plate, parafilm removed until next measurement to reduce wetness"
+4,Control - Plate,Control,6,3/28/2024,14.5,15,14.75,1,3,"wet plate, parafilm removed until next measurement to reduce wetness"
+5,Control - Plate,Control,6,3/28/2024,16.5,16,16.25,1,3,"wet plate, parafilm removed until next measurement to reduce wetness"
+1,Oleic Acid,10000,6,3/28/2024,9.5,9,9.25,1,3,picture
+2,Oleic Acid,10000,6,3/28/2024,10.5,11,10.75,1,3,picture
+3,Oleic Acid,10000,6,3/28/2024,12.5,10,11.25,1,3,
+4,Oleic Acid,10000,6,3/28/2024,10.5,10,10.25,1,3,
+5,Oleic Acid,10000,6,3/28/2024,12.5,12.5,12.5,1,3,
+1,Oleic Acid,1000,6,3/28/2024,8,8,8,2,3,picture
+2,Oleic Acid,1000,6,3/28/2024,10,9.5,9.75,2,3,picture
+3,Oleic Acid,1000,6,3/28/2024,9.5,9.5,9.5,2,3,"plug moved, remeasured"
+4,Oleic Acid,1000,6,3/28/2024,8,9.5,8.75,2,3,
+5,Oleic Acid,1000,6,3/28/2024,9,9.5,9.25,2,3,
+1,Oleic Acid,100,6,3/28/2024,14,13,13.5,2,3,picture
+2,Oleic Acid,100,6,3/28/2024,13.5,13,13.25,2,3,picture
+3,Oleic Acid,100,6,3/28/2024,10,10.5,10.25,2,3,"plug moved, remeasured"
+4,Oleic Acid,100,6,3/28/2024,12,11.5,11.75,2,3,
+5,Oleic Acid,100,6,3/28/2024,14,13,13.5,2,3,
+1,Oleic Acid,10,6,3/28/2024,10,11,10.5,1,3,picture
+2,Oleic Acid,10,6,3/28/2024,11.5,11,11.25,1,3,picture
+3,Oleic Acid,10,6,3/28/2024,15.5,15,15.25,2,3,
+4,Oleic Acid,10,6,3/28/2024,14.5,16,15.25,2,3,
+5,Oleic Acid,10,6,3/28/2024,16,16,16,2,3,
+1,Oleic Acid,1,6,3/28/2024,15,15.5,15.25,1,3,picture
+2,Oleic Acid,1,6,3/28/2024,15,15,15,2,3,picture
+3,Oleic Acid,1,6,3/28/2024,15,15,15,2,3,
+4,Oleic Acid,1,6,3/28/2024,15,15,15,2,3,
+5,Oleic Acid,1,6,3/28/2024,15,15,15,2,3,
+1,Control - Plate,Control,9,3/31/2024,23,21.5,22.25,2,3,"picture, plate was reparafilmed, plug fell, added labels"
+2,Control - Plate,Control,9,3/31/2024,21,19,20,2,3,"picture, plate was reparafilmed, added labels"
+3,Control - Plate,Control,9,3/31/2024,21,21,21,2,3,plate was reparafilmed
+4,Control - Plate,Control,9,3/31/2024,21.5,22,21.75,1,3,"plate was reparafilmed, plate wet"
+5,Control - Plate,Control,9,3/31/2024,21.5,20,20.75,2,3,"plate was reparafilmed, plate wet, plug fell"
+1,Oleic Acid,10000,9,3/31/2024,11,10.5,10.75,3,3,"picture, label added, interesting morphology around plug"
+2,Oleic Acid,10000,9,3/31/2024,11,11.5,11.25,3,3,"picture, label added"
+3,Oleic Acid,10000,9,3/31/2024,14,12,13,3,3,interesting morphology around plug
+4,Oleic Acid,10000,9,3/31/2024,11,11.5,11.25,3,3,"interesting morphology around plug, maked on top"
+5,Oleic Acid,10000,9,3/31/2024,12,12,12,3,3,interesting morphology around plug
+1,Oleic Acid,1000,9,3/31/2024,11.5,13,12.25,4,3,"picture, label added"
+2,Oleic Acid,1000,9,3/31/2024,13,13.5,13.25,4,3,"picture, label added"
+3,Oleic Acid,1000,9,3/31/2024,12.5,13,12.75,4,3,
+4,Oleic Acid,1000,9,3/31/2024,12.5,12,12.25,4,3,
+5,Oleic Acid,1000,9,3/31/2024,11.5,12,11.75,4,3,
+1,Oleic Acid,100,9,3/31/2024,16.5,15.5,16,2,3,"picture, label added"
+2,Oleic Acid,100,9,3/31/2024,16.5,15.5,16,2,3,"picture, label added"
+3,Oleic Acid,100,9,3/31/2024,16,15.5,15.75,2,3,
+4,Oleic Acid,100,9,3/31/2024,15.5,15.5,15.5,2,3,
+5,Oleic Acid,100,9,3/31/2024,16.5,16.5,16.5,2,3,
+1,Oleic Acid,10,9,3/31/2024,18,17.5,17.75,1,3,"picture, label added"
+2,Oleic Acid,10,9,3/31/2024,17.5,17.5,17.5,2,3,"picture, label added, plug fell"
+3,Oleic Acid,10,9,3/31/2024,22.5,22,22.25,2,3,
+4,Oleic Acid,10,9,3/31/2024,22,23,22.5,2,3,
+5,Oleic Acid,10,9,3/31/2024,22,22.5,22.25,2,3,
+1,Oleic Acid,1,9,3/31/2024,21.5,21.5,21.5,2,3,"picture, label added"
+2,Oleic Acid,1,9,3/31/2024,22,21.5,21.75,2,3,"picture, label added"
+3,Oleic Acid,1,9,3/31/2024,22,21.5,21.75,2,3,
+4,Oleic Acid,1,9,3/31/2024,22,22,22,2,3,
+5,Oleic Acid,1,9,3/31/2024,22,21.5,21.75,2,3,plug fell
+1,Control - Plate,Control,12,4/3/2024,29,29,29,2,3,"plug fell, no picture"
+2,Control - Plate,Control,12,4/3/2024,26,26.5,26.25,2,3,picture
+3,Control - Plate,Control,12,4/3/2024,28,27.5,27.75,2,3,
+4,Control - Plate,Control,12,4/3/2024,29,28,28.5,2,3,
+5,Control - Plate,Control,12,4/3/2024,29.5,28,28.75,2,3,plug fell
+1,Oleic Acid,10000,12,4/3/2024,14.5,13.5,14,4,3,"picture, wet plate, interesting morphology around plug"
+2,Oleic Acid,10000,12,4/3/2024,14,14,14,4,3,"picture, wet plate, interesting morphology around plug"
+3,Oleic Acid,10000,12,4/3/2024,15,14,14.5,4,3,"wet plate, interesting morphology around plug"
+4,Oleic Acid,10000,12,4/3/2024,13.5,14.5,14,4,3,"wet plate, interesting morphology around plug"
+5,Oleic Acid,10000,12,4/3/2024,14,13.5,13.75,4,3,"wet plate, interesting morphology around plug"
+1,Oleic Acid,1000,12,4/3/2024,16,16.5,16.25,3,3,picture
+2,Oleic Acid,1000,12,4/3/2024,16,17,16.5,3,3,picture
+3,Oleic Acid,1000,12,4/3/2024,16,17,16.5,3,3,
+4,Oleic Acid,1000,12,4/3/2024,15,16,15.5,3,3,
+5,Oleic Acid,1000,12,4/3/2024,16,16.5,16.25,3,3,
+1,Oleic Acid,100,12,4/3/2024,21,20.5,20.75,2,3,picture
+2,Oleic Acid,100,12,4/3/2024,20.5,21,20.75,2,3,picture
+3,Oleic Acid,100,12,4/3/2024,19.5,20,19.75,2,3,
+4,Oleic Acid,100,12,4/3/2024,19.5,19,19.25,2,3,
+5,Oleic Acid,100,12,4/3/2024,21,21,21,2,3,
+1,Oleic Acid,10,12,4/3/2024,24,24.5,24.25,2,3,picture
+2,Oleic Acid,10,12,4/3/2024,23.5,24,23.75,2,3,"plug fell, will not interfere with growth"
+3,Oleic Acid,10,12,4/3/2024,27.5,28.5,28,2,3,
+4,Oleic Acid,10,12,4/3/2024,27.5,28,27.75,2,3,
+5,Oleic Acid,10,12,4/3/2024,29,30,29.5,2,3,
+1,Oleic Acid,1,12,4/3/2024,27,28,27.5,2,3,picture
+2,Oleic Acid,1,12,4/3/2024,28,28,28,2,3,picture
+3,Oleic Acid,1,12,4/3/2024,28,28,28,2,3,
+4,Oleic Acid,1,12,4/3/2024,27.5,28,27.75,2,3,
+5,Oleic Acid,1,12,4/3/2024,28,28,28,2,3,"plug fell, may interfere with growth"
+1,Control - Plate,Control,15,4/6/2024,38,35,36.5,2,3,"wet plate, no picture, plug fell"
+2,Control - Plate,Control,15,4/6/2024,33,34,33.5,2,3,picture
+3,Control - Plate,Control,15,4/6/2024,34,34,34,2,3,
+4,Control - Plate,Control,15,4/6/2024,36,34,35,2,3,
+5,Control - Plate,Control,15,4/6/2024,36,33,34.5,2,3,plug fell
+1,Oleic Acid,10000,15,4/6/2024,20,18,19,4,3,"picture, measured from bottom, interesting morphology, wet plate"
+2,Oleic Acid,10000,15,4/6/2024,18,18,18,4,3,"picture, measured from bottom, interesting morphology, wet plate"
+3,Oleic Acid,10000,15,4/6/2024,17,18,17.5,4,3,"measured from bottom, interesting morphology"
+4,Oleic Acid,10000,15,4/6/2024,18,17,17.5,4,3,"measured from bottom, interesting morphology"
+5,Oleic Acid,10000,15,4/6/2024,17,18,17.5,4,3,"measured from bottom, interesting morphology"
+1,Oleic Acid,1000,15,4/6/2024,20,21,20.5,3,3,picture
+2,Oleic Acid,1000,15,4/6/2024,20,21,20.5,3,3,picture
+3,Oleic Acid,1000,15,4/6/2024,20,20,20,3,3,
+4,Oleic Acid,1000,15,4/6/2024,19,19,19,3,3,
+5,Oleic Acid,1000,15,4/6/2024,20,21,20.5,3,3,
+1,Oleic Acid,100,15,4/6/2024,26,26,26,3,3,picture
+2,Oleic Acid,100,15,4/6/2024,26,26,26,3,3,picture
+3,Oleic Acid,100,15,4/6/2024,24,24,24,3,3,
+4,Oleic Acid,100,15,4/6/2024,25,24,24.5,3,3,
+5,Oleic Acid,100,15,4/6/2024,26,26,26,3,3,
+1,Oleic Acid,10,15,4/6/2024,30,30,30,2,3,picture
+2,Oleic Acid,10,15,4/6/2024,29,30,29.5,2,3,"picture, plug fell"
+3,Oleic Acid,10,15,4/6/2024,35,35,35,2,3,
+4,Oleic Acid,10,15,4/6/2024,34,36,35,2,3,
+5,Oleic Acid,10,15,4/6/2024,35,36,35.5,2,3,
+1,Oleic Acid,1,15,4/6/2024,33,34,33.5,2,3,picture
+2,Oleic Acid,1,15,4/6/2024,35,34,34.5,2,3,picture
+3,Oleic Acid,1,15,4/6/2024,34,35,34.5,2,3,
+4,Oleic Acid,1,15,4/6/2024,35,35,35,2,3,
+5,Oleic Acid,1,15,4/6/2024,34,34,34,2,3,
+1,Control - Plate,Control,18,4/9/2024,42,40,41,2,3,"picture, plug fell"
+2,Control - Plate,Control,18,4/9/2024,40,40,40,2,3,"picture, plug fell"
+3,Control - Plate,Control,18,4/9/2024,41,40,40.5,2,3,
+4,Control - Plate,Control,18,4/9/2024,42,40,41,2,3,
+5,Control - Plate,Control,18,4/9/2024,42,40,41,2,3,plug fell
+1,Oleic Acid,10000,18,4/9/2024,22,21,21.5,4,3,picture
+2,Oleic Acid,10000,18,4/9/2024,21,21,21,4,3,picture
+3,Oleic Acid,10000,18,4/9/2024,20,22,21,4,3,
+4,Oleic Acid,10000,18,4/9/2024,21,20,20.5,4,3,
+5,Oleic Acid,10000,18,4/9/2024,20,21,20.5,4,3,
+1,Oleic Acid,1000,18,4/9/2024,24,24,24,3,3,picture
+2,Oleic Acid,1000,18,4/9/2024,23,23,23,3,3,picture
+3,Oleic Acid,1000,18,4/9/2024,23,23,23,3,3,
+4,Oleic Acid,1000,18,4/9/2024,22,23,22.5,3,3,
+5,Oleic Acid,1000,18,4/9/2024,23,23,23,3,3,
+1,Oleic Acid,100,18,4/9/2024,31,31,31,3,3,picture
+2,Oleic Acid,100,18,4/9/2024,30,30,30,3,3,picture
+3,Oleic Acid,100,18,4/9/2024,29,29,29,3,3,
+4,Oleic Acid,100,18,4/9/2024,30,29,29.5,3,3,
+5,Oleic Acid,100,18,4/9/2024,30,30,30,3,3,
+1,Oleic Acid,10,18,4/9/2024,37,38,37.5,2,3,picture
+2,Oleic Acid,10,18,4/9/2024,37,38,37.5,2,3,"picture, plug fell"
+3,Oleic Acid,10,18,4/9/2024,42,42,42,2,3,
+4,Oleic Acid,10,18,4/9/2024,42,43,42.5,2,3,
+5,Oleic Acid,10,18,4/9/2024,43,43,43,2,3,
+1,Oleic Acid,1,18,4/9/2024,40,41,40.5,2,3,picture
+2,Oleic Acid,1,18,4/9/2024,41,40,40.5,2,3,picture
+3,Oleic Acid,1,18,4/9/2024,40,41,40.5,2,3,
+4,Oleic Acid,1,18,4/9/2024,41,42,41.5,2,3,
+5,Oleic Acid,1,18,4/9/2024,41,41,41,2,3,plug fell
+1,Control - Plate,Control,21,4/12/2024,47.5,46.5,47,2,3,"picture, plug fell"
+2,Control - Plate,Control,21,4/12/2024,44.5,45,44.75,2,3,"picture, plug fell"
+3,Control - Plate,Control,21,4/12/2024,46.5,46.5,46.5,2,3,
+4,Control - Plate,Control,21,4/12/2024,47,46,46.5,2,3,
+5,Control - Plate,Control,21,4/12/2024,48,45,46.5,2,3,plug fell
+1,Oleic Acid,10000,21,4/12/2024,25.5,24.5,25,4,3,picture
+2,Oleic Acid,10000,21,4/12/2024,24.5,24.5,24.5,4,3,picture
+3,Oleic Acid,10000,21,4/12/2024,23,24.5,23.75,4,3,
+4,Oleic Acid,10000,21,4/12/2024,24.5,23.5,24,4,3,
+5,Oleic Acid,10000,21,4/12/2024,23,24,23.5,4,3,
+1,Oleic Acid,1000,21,4/12/2024,27,28,27.5,3,3,picture
+2,Oleic Acid,1000,21,4/12/2024,27,27,27,3,3,picture
+3,Oleic Acid,1000,21,4/12/2024,26.5,26,26.25,3,3,
+4,Oleic Acid,1000,21,4/12/2024,25.5,26,25.75,3,3,
+5,Oleic Acid,1000,21,4/12/2024,26.5,27,26.75,3,3,
+1,Oleic Acid,100,21,4/12/2024,36.5,36,36.25,3,3,picture
+2,Oleic Acid,100,21,4/12/2024,36,36.5,36.25,3,3,picture
+3,Oleic Acid,100,21,4/12/2024,35,35,35,3,3,
+4,Oleic Acid,100,21,4/12/2024,35.5,35,35.25,3,3,
+5,Oleic Acid,100,21,4/12/2024,36.5,36,36.25,3,3,
+1,Oleic Acid,10,21,4/12/2024,43.5,44.5,44,2,3,picture
+2,Oleic Acid,10,21,4/12/2024,43.5,43,43.25,2,3,"picture, plug fell"
+3,Oleic Acid,10,21,4/12/2024,48.5,48.5,48.5,2,3,
+4,Oleic Acid,10,21,4/12/2024,48.5,49.5,49,2,3,
+5,Oleic Acid,10,21,4/12/2024,49,49,49,2,3,
+1,Oleic Acid,1,21,4/12/2024,46.5,47,46.75,2,3,picture
+2,Oleic Acid,1,21,4/12/2024,47.5,47,47.25,2,3,picture
+3,Oleic Acid,1,21,4/12/2024,47.5,47.5,47.5,2,3,
+4,Oleic Acid,1,21,4/12/2024,47.5,47.5,47.5,2,3,
+5,Oleic Acid,1,21,4/12/2024,47.5,47,47.25,2,3,plug fell
+1,Squalene,10000,3,3/25/2024,7,7,7,0,3,picture
+2,Squalene,10000,3,3/25/2024,7,7,7,0,3,picture
+3,Squalene,10000,3,3/25/2024,7,7,7,0,3,
+4,Squalene,10000,3,3/25/2024,7,7,7,0,3,
+5,Squalene,10000,3,3/25/2024,7,7,7,0,3,
+1,Squalene,10000,6,3/28/2024,7,7,7,0,3,picture
+2,Squalene,10000,6,3/28/2024,7,7,7,0,3,picture
+3,Squalene,10000,6,3/28/2024,7,7,7,0,3,
+4,Squalene,10000,6,3/28/2024,7,7,7,0,3,
+5,Squalene,10000,6,3/28/2024,7,7,7,0,3,
+1,Squalene,10000,9,3/31/2024,7,7,7,0,3,picture
+2,Squalene,10000,9,3/31/2024,7,7,7,0,3,picture
+3,Squalene,10000,9,3/31/2024,7,7,7,0,3,
+4,Squalene,10000,9,3/31/2024,7,7,7,0,3,
+5,Squalene,10000,9,3/31/2024,7,7,7,0,3,
+1,Squalene,10000,12,4/3/2024,7,7,7,0,3,picture
+2,Squalene,10000,12,4/3/2024,7,7,7,0,3,picture
+3,Squalene,10000,12,4/3/2024,7,7,7,0,3,
+4,Squalene,10000,12,4/3/2024,7,7,7,0,3,
+5,Squalene,10000,12,4/3/2024,7,7,7,0,3,
+1,Squalene,10000,15,4/6/2024,7,7,7,0,3,picture
+2,Squalene,10000,15,4/6/2024,7,7,7,0,3,picture
+3,Squalene,10000,15,4/6/2024,7,7,7,0,3,
+4,Squalene,10000,15,4/6/2024,7,7,7,0,3,
+5,Squalene,10000,15,4/6/2024,7,7,7,0,3,
+1,Squalene,10000,18,4/9/2024,7,7,7,0,3,picture
+2,Squalene,10000,18,4/9/2024,7,7,7,0,3,picture
+3,Squalene,10000,18,4/9/2024,7,7,7,0,3,
+4,Squalene,10000,18,4/9/2024,7,7,7,0,3,
+5,Squalene,10000,18,4/9/2024,7,7,7,0,3,
+1,Squalene,10000,21,4/12/2024,7,7,7,0,3,picture
+2,Squalene,10000,21,4/12/2024,7,7,7,0,3,picture
+3,Squalene,10000,21,4/12/2024,7,7,7,0,3,
+4,Squalene,10000,21,4/12/2024,7,7,7,0,3,
+5,Squalene,10000,21,4/12/2024,7,7,7,0,3,

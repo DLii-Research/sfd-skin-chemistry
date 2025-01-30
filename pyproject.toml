@@ -1,0 +1,21 @@
+[project]
+name = "sfd2"
+version = "1.0.0"
+authors = [
+  { name="David W. Ludwig II", email="davidludwigii@gmail.com" }
+]
+description = ""
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.8"
+dependencies = [
+  "deepbio-toolkit >= 0.1.6",
+  "lightning[pytorch-extra]"
+]
+
+# [project.urls]
+"Homepage" = "https://github.com/DLii-Research/sfd-skin-chemistry"
+"Bug Tracker" = "https://github.com/DLii-Research/sfd-skin-chemistry/issues"
+
+[tool.ruff]
+line-length = 100
